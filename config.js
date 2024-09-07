@@ -14,8 +14,8 @@ const config = {
       {
         priceId:
           process.env.NODE_ENV === "development"
-            ? "price_1Pr8IFIEfj3N1wDkWJdwaCl7"
-            : "price_1Pr8IFIEfj3N1wDkWJdwaCl7",
+            ? "price_1PwVrGIEfj3N1wDk42dqqcHr"
+            : "price_1PwVrGIEfj3N1wDk42dqqcHr",
         name: "Yearly",
         mode: "subscription",
         description: "Full access to all features for a year",
@@ -34,8 +34,8 @@ const config = {
         isFeatured: true,
         priceId:
           process.env.NODE_ENV === "development"
-            ? "price_1Pr8IeIEfj3N1wDkw4Is4XzO"
-            : "price_1Pr8IeIEfj3N1wDkw4Is4XzO",
+            ? "price_1PwVrDIEfj3N1wDkRY5oJU1b"
+            : "price_1PwVrDIEfj3N1wDkRY5oJU1b",
         name: "Unlimited",
         mode: "payment",
         description: "A one-time payment for lifetime access",
